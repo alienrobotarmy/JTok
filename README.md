@@ -2,7 +2,7 @@
 
 JTok is a simple to use, leak free and thread safe tokenization.
 
-It does not rely on static or global variables, which makes for safe integration into threaded programs where strok(r) and strsep are know to be problematic. 
+It does not rely on static or global variables, which makes this for safe integration into threaded programs where strok(r) and strsep are know to be problematic. 
 
 ## Example Usage
 This is our example file `test.c`
